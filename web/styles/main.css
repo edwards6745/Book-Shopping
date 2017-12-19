@@ -1,0 +1,29 @@
+/* 
+    Created on : Nov 18, 2016, 5:44:45 PM
+    Author     : Austin Edwards
+*/
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 12pt;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+h1 {
+    color:crimson;
+}
+label {
+    margin-bottom: 15px;
+}
+td, th {
+    width: 100px;
+    padding: 8px;
+    text-align: center;
+}
+tr.header {
+    font-weight: bold;
+}
+
+table, td, th {
+    border: 1px solid #000;
+}
